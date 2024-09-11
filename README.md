@@ -15,7 +15,7 @@ Project Curry
          alt="UE5">
   </a>
   <p align="center">
-    <a href="https://unity.com/kr" target="blank">
+    <a href="https://unity.com/kr" target="_blank">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s" alt="UNITY">
 </p>
 
