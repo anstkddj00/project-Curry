@@ -43,5 +43,3 @@ Project Curry
 나 혼자 만듬<br>
 상원이도 만듬 ㅋ
 <hr>
-
-<p>앙</p>
