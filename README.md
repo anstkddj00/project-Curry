@@ -3,7 +3,7 @@
   <br>
   <a href=""><img src="" alt="" width="200"></a>
   <br>
- 프로젝또 커-리
+Project Curry
   <br>
 </h1>
 
