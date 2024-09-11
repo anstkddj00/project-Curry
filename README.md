@@ -16,7 +16,7 @@ Project Curry
   </a>
   <p align="center">
     <a href="https://unity.com/kr">
-      <img src=.png">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s" alt="UNITY">
 </p>
 
 <p align="center">
