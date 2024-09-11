@@ -14,10 +14,13 @@ Project Curry
     <img src="https://img.shields.io/static/v1?message=Unreal Engine 5&color=000000&logo=unrealengine&logoColor=white&label="
          alt="UE5">
   </a>
+<<<<<<< HEAD
   <p align="center">
     <a href="https://unity.com/kr" target="_blank">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuSKFOAPqx9CmZusMMDcsLjcraLic1YGE2cw&s" alt="UNITY">
 </p>
+=======
+>>>>>>> 1967104 (update README.md)
 
 <p align="center">
   <a href="#프롤로그">프롤로그</a> •
@@ -43,7 +46,5 @@ Project Curry
 
 ## 크레딧
 
-안치웅<--얜 그냥 병신인듯?
-<br>
-문상원<-- 얜 그냥 신인듯?
-<hr>
+안치웅<br>
+문상원 <--병신
