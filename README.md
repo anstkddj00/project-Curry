@@ -16,7 +16,7 @@ Project Curry
   </a>
   <p align="center">
     <a href="https://unity.com/kr">
-      <img src="다운로드.png">
+      <img src=.png">
 </p>
 
 <p align="center">
